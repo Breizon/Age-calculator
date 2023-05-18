@@ -145,9 +145,8 @@ small {
     }
     .submit_btn {
         position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        left: 40%;
+        /* transform: translate(-50%, -50%); */
     }
     .output {
         margin-top: 5rem;
